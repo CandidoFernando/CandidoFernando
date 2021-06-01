@@ -1,4 +1,4 @@
-### Olá, me chamo Fernando. Formado em Ciência da Computação e certificado em ITIL. Estudante ativo de Data Science, em busca da minha primeira oportunidade profissional na área.
+### Olá, me chamo Fernando. Formado em Ciência da Computação. Estudante ativo de Data Science, em busca da minha primeira oportunidade profissional na área.
 
 <br /> 
 
